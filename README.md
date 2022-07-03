@@ -1,6 +1,10 @@
 # Web-Technologies----BarBoiis
 ## Web Tech Group Project 
 
+## Website Demonstration
+Youtube Link: https://youtu.be/7pmwUNWu2SQ
+
+
 ### Introduction
 
 BarBois, is an organisation that focuses on maintaining the health and well-being of an individual through callisthenics. It is a term that associates exercises using only body weight and the environment around us to perform basic compound exercises like push-ups, pull-ups, dips or squats. Compared to heavy weight exercise, callisthenics are way cheaper and available almost all the time. People can still do their workouts anywhere either at the park, the beach or even at home, as long as they have the right knowledge and equipment to achieve their desired goals in fitness.
@@ -16,6 +20,9 @@ The hope of creating this club is to achieve SDG goal number 3, Good Health and 
 ![sitemap](https://user-images.githubusercontent.com/101052053/177045310-65a1f81b-9f4b-4165-b98b-22b8a9540de9.png)
 
 ### Group Works 
+
+![tasks](https://user-images.githubusercontent.com/101052053/177045606-f722cdc7-afa8-4e37-9ff1-6c25b720839b.png)
+
 
 
 
