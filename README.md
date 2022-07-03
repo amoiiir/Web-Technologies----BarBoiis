@@ -17,15 +17,6 @@ The hope of creating this club is to achieve SDG goal number 3, Good Health and 
 
 ### Group Works 
 
-|Name |Matric No |
-| --- | --- |
-| Faishal Aqil Bin Mohd Arief (2014883) | Page: Training Area and Contact Us 
-Help in compilation of the project
-Place footer in all pages 
-Update the CSS, and HTML for all the project
-Create the website logo for the entire project
- |
-| This | is 2nd | row |
-| This | is 3rd | row |
+
 
 
