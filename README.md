@@ -13,4 +13,6 @@ The hope of creating this club is to achieve SDG goal number 3, Good Health and 
 
 ### Site Map
 
+![sitemap](https://user-images.githubusercontent.com/101052053/177045310-65a1f81b-9f4b-4165-b98b-22b8a9540de9.png)
+
 
